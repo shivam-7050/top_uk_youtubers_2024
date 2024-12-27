@@ -569,7 +569,6 @@ Best option from category: Dan Rhodes
 # 3. Select the column you need and create calculated columns from existing ones 
 # 4. Filter results by Youtube channels
 # 5. Sort results by net profits (from highest to lowest)
-
 */
 
 
