@@ -592,7 +592,7 @@ rounded_avg_views_per_video,
 FROM ChannelData
 
 
-/*	youtubers_with_most_subs */
+/* youtubers_with_most_subs */
 WHERE 
     channel_name in ('NoCopyrightSounds', 'DanTDM', 'Dan Rhodes')    
 
@@ -670,13 +670,14 @@ rounded_avg_views_per_video,
 FROM ChannelData
 
 
-/*	youtubers_with_most_videos
+/* youtubers_with_most_videos */
 
 WHERE
     channel_name IN ('GRM Daily', 'Man City', 'YOGSCAST Lewis & Simon ')
 
 ORDER BY
     net_profit DESC;
+
 
 ```
 
@@ -760,6 +761,7 @@ ORDER BY
     net_profit DESC;
 
 ```
+
 
 #### Output
 
