@@ -564,7 +564,6 @@ Best option from category: Dan Rhodes
 
 ```sql
 /* 
-
 # 1. Define variables 
 # 2. Create a CTE that rounds the average views per video 
 # 3. Select the column you need and create calculated columns from existing ones 
